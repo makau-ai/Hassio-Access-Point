@@ -1,7 +1,7 @@
 ARG BUILD_FROM
 FROM $BUILD_FROM
 
-MAINTAINER ex-ml <ex_ml@sent.com>
+MAINTAINER hassio <hassio@sph3r3.com>
 
 SHELL ["/bin/bash", "-o", "pipefail", "-c"]
 
